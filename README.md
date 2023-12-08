@@ -1,4 +1,4 @@
-# Wp Copy Post Content
+# WP Copy Post Content
 
 A Simple Plugin to Copy Full Post content to Clipboard - Built using Clipboard JS.
 
